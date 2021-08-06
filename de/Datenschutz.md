@@ -6,7 +6,7 @@ Wir haben einen Minimalsammlungs-Leitfaden. Abgesehen von notwendigen Daten, um 
 
 ### Nutzerbeiträge
 
-Du hast die volle Kontrolle, Daten die zu hinzufügst (z. B. Code und Inhalt, Kommentare, Repositories, Accountdaten und Einstellungen) zu erstellen, zu erweitern und zu ändern. Falls Daten auf der Plattform nicht durch Nutzer:innen geändert werden können, ist dies als technischer Fehler zu betrachten und muss schnellstens behoben werden. Bitte melde solche Fälle und andere Fehler an den [Codeberg.org Community Issue Tracker](/Codeberg/Community/issues).
+Für alle Daten, welche du beiträgst (z. B. Code und Inhalt, Kommentare, Repositories, Accountdaten und Einstellungen), hast du die volle Verantwortung und Kontrolle. Du kannst neue Sachen hinzufügen, erweitern und abändern. Falls Daten auf der Plattform nicht durch Nutzer:innen geändert werden können, ist dies als technischer Fehler zu betrachten und muss schnellstens behoben werden. Bitte melde solche Fälle und andere Fehler an den [Codeberg.org Community Issue Tracker](/Codeberg/Community/issues).
 
 ### Backupdateien
 
