@@ -1,6 +1,6 @@
 ## TLDR; You have full control and responsibility over your data.
 
-We have a mimimum-collection policy. Aside from essential data required to keep the service running, we are not collecting additional user or tracking data.
+We have a minimum-collection policy. Aside from essential data required to keep the service running, we are not collecting additional user or tracking data.
 
 ### User contributions
 
