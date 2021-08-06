@@ -57,7 +57,7 @@ Therefore, the purpose of Codeberg e.V. is the creation and operation of a free 
 
 ## § 4 Rights and duties of the members
 
-(1) Members are permitted to attend all offered events of the association. Additionally, they have the right to submit requests to the the Presidium and the general assembly.
+(1) Members are permitted to attend all offered events of the association. Additionally, they have the right to submit requests to the Presidium and the general assembly.
 
 (2) The members support the association and its purpose in an adequate fashion. They are obliged to pay their dues as prescribed by the latest valid membership fee regulation (German *Beitragsordnung*). Further they are obliged to immediately inform the association in case of changes in their postal address, email address and bank details. The member is liable for any consequences that are a result of ignoring these obligations and frees the association from any liability.
 
