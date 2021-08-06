@@ -15,9 +15,9 @@ All content is stored by community members on the Repository and Version Control
 
 For Free and Open Software projects (FOSS) as defined by the Free Software Foundation (FSF) and the Open Source Initiative (OSI), Codeberg provides Repository and Version Control, Wiki, and Issue Tracker hosting under certain terms and conditions. These services are referred to as "service", "hosting" and "platform" in this document.
 
-Our service is open for all projects working under a license compatible with either the Open-Source-License definition of the Free Software foundation (FSF) or the Open Source Initiative (OSI).
+Our service is open for all projects working under a license compatible with either the Open-Source-License definition of the Free Software Foundation (FSF) or the Open Source Initiative (OSI).
 
-Generally we do not contribute, monitor, or delete content (with the rare exception of policies like these Terms of Use or legal compliance). This means that editorial control is in the hands of you and your fellow users who create and manage the content.
+Generally, we do not contribute, monitor, or delete content (with the rare exception of policies like these Terms of Use or legal compliance). This means that editorial control is in the hands of you and your fellow users who create and manage the content.
 
 Codeberg is a non-profit organisation financed by member contributions and donations. The service can only survive as long as member contributions and donations allow us to maintain the necessary infrastructure.
 
@@ -25,7 +25,7 @@ Codeberg is a non-profit organisation financed by member contributions and donat
 
 You are responsible for your own actions. Please act responsibly and apply appropriate security measures to protect your own data and account access credentials.
 
- - You are legally responsible for your edits and contributions on the platform, so for your own protection you should exercise caution and avoid contributing any content that may result in criminal or civil liability under any applicable laws. Although we may not agree with such actions, we warn authors, editors and contributors that authorities may seek to apply other country laws to you, including local laws where you live or where you view or edit content.
+ - You are legally responsible for your edits and contributions on the platform, so for your own protection, you should exercise caution and avoid contributing any content that may result in criminal or civil liability under any applicable laws. Although we may not agree with such actions, we warn authors, editors and contributors that authorities may seek to apply other country laws to you, including local laws where you live or where you view or edit content.
  - You are responsible for safeguarding your account credentials and should never disclose them to any third party.
  - You are solely responsible for your use of any third-party websites or resources. Although some projects may contain links to third-party websites and resources, we do not endorse and are not responsible or liable for their availability, accuracy, or the related content, products, or services, nor do we have any obligation to monitor such third-party content.
 
@@ -44,9 +44,9 @@ User-contributed content in all repositories, wikis and issue trackers:
  - must not contain illegal content and must not be used for illegal purposes,
  - must adhere to relevant law, privacy, and data-protection regulation,
  - must only contain code and data compatible with the Open-Source license requirements defined by FSF or OSI,
- - must be of reasonable size in order not to disproportionally disrupt service for other users. "Reasonable" is defined by day-to-day operation constraints according the currently available resources.
+ - must be of reasonable size in order not to disproportionally disrupt service for other users. "Reasonable" is defined by day-to-day operation constraints according to the currently available resources.
 	- If a project or user is allocating an excessive amount of resources, the project or user will be notified and asked to reduce resource usage within the given notice period,
-	- If the project or user does not respond within the notice period, or the resource usage is endangering other projects or the platform itself, this project or user will be disabled immediately, or even removed.
+	- If the project or user does not respond within the notice period, or the resource usage is endangering other projects or the platform itself, this project or user will be disabled immediately or even removed.
 
 ## Cancellation and Termination
 
