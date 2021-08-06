@@ -24,7 +24,7 @@ Therefore, the purpose of Codeberg e.V. is the creation and operation of a free 
 
 ## § 2 Purpose and tasks
 
-(1) The purpose of the association is to promote the creation, collection, distribution and preservation of Free Content (Open Content, Free Cultural Works) and Free and Open Source Software (FOSS) and their documentation in selfless work to enable equal opportunities regarding the access to knowledge and education. Furthermore this also intends to raise awareness for the social and philosophical questions interconnected with this.
+(1) The purpose of the association is to promote the creation, collection, distribution and preservation of Free Content (Open Content, Free Cultural Works) and Free and Open Source Software (FOSS) and their documentation in selfless work to enable equal opportunities regarding the access to knowledge and education. Furthermore, this also intends to raise awareness for the social and philosophical questions interconnected with this.
 
 (2) For the collection and distribution of free content, open and commonly used Repository and Version Control Systems ("RCS" and "VCS") that save and preserve the whole history of the creation and improvement of Open Source software and make it freely available to society on the Internet, should be primarily but not exclusively used and generally made available. A prominent example is "GIT", a software created by Linux developer Linus Torvalds.
 
@@ -41,7 +41,7 @@ Therefore, the purpose of Codeberg e.V. is the creation and operation of a free 
 
 (6) The association solely and directly serves non-commercial purposes as of paragraph "steuerbegünstigte Zwecke" (tax-privileged purposes) of the "Abgabenordnung" (German *Fiscal Code*) 1977 (§§51 ff. AO) in the latest valid version. It acts selflessly and does not primarily pursue self-serving goals.
 
-(7) Means of the association may only be used for purposes in accordance with the bylaws. Members in their role as member do not receive financial support from the funds of the association. Members are not allowed to receive parts of the association's assets when leaving, or during a forced or voluntary dissolution of the association. No person may receive financial benefits for reasons which are not in accordance with the association's purposes, neither may anyone receive excessive benefits.
+(7) Means of the association may only be used for purposes in accordance with the bylaws. Members in their role as member do not receive financial support from the funds of the association. Members are not allowed to receive parts of the association's assets when leaving or during a forced or voluntary dissolution of the association. No person may receive financial benefits for reasons which are not in accordance with the association's purposes, neither may anyone receive excessive benefits.
 
 
 ## § 3 Membership
