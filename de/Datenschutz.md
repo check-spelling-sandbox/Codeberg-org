@@ -1,16 +1,16 @@
-Bitte beachte: Dies ist eine unoffizielle Übersetzung des [Englischen Originaldokuments](../PrivacyPolicy.md). Bitte lies auch die weiteren Hinweise im Überordner dieses Repositories.
+Bitte beachte: Dies ist eine inoffizielle Übersetzung des [Englischen Originaldokuments](../PrivacyPolicy.md). Bitte lies auch die weiteren Hinweise im Überordner dieses Repositories.
 
 ## Kurz gesagt: Du hast die volle Kontrolle und Hoheit über deine Daten!
 
-Wir haben einen Minimalsammlungs-Leitfaden. Abgesehen von notwendigen Daten, um den Service am LAufen zu halten, sammeln wir keine Nutzer- und Trackingdaten.
+Wir haben einen Minimalsammlungs-Leitfaden. Abgesehen von notwendigen Daten, um den Service am Laufen zu halten, sammeln wir keine Nutzer- und Trackingdaten.
 
 ### Nutzerbeiträge
 
-Du hast die volle Kontrolle, Daten die zu hinzufügst (z. B. Code und Inhalt, Kommentare, Repositories, Accountdaten und Einstellungen) zu erstellen, zu erweitern und zu ändern. Falls Daten auf der Plattform nicht durch Nutzer:innen geändert werden können, ist dies als technischer Fehler zu betrachten und muss schnellstens behoben werden. Bitte melde solche Fälle und andere Fehler an den [Codeberg.org Community Issue Tracker](/Codeberg/Community/issues).
+Für alle Daten, welche du beiträgst (z. B. Code und Inhalt, Kommentare, Repositories, Accountdaten und Einstellungen), hast du die volle Verantwortung und Kontrolle. Du kannst neue Sachen hinzufügen, erweitern und abändern. Falls Daten auf der Plattform nicht durch Nutzer:innen geändert werden können, ist dies als technischer Fehler zu betrachten und muss schnellstens behoben werden. Bitte melde solche Fälle und andere Fehler an den [Codeberg.org Community Issue Tracker](/Codeberg/Community/issues).
 
 ### Backupdateien
 
-Nachdem du Daten in deinem Acount gelöscht hast, können rotierende Offline-Backups für bis zu 30 Tage nach DSGVO-Richtlinien weiter existieren.
+Nachdem du Daten in deinem Account gelöscht hast, können rotierende Offline-Backups für bis zu 30 Tage nach DSGVO-Richtlinien weiter existieren.
 
 ### IP-Speicherung
 

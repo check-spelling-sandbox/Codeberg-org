@@ -1,6 +1,6 @@
 ## TLDR; You have full control and responsibility over your data.
 
-We have a mimimum-collection policy. Aside from essential data required to keep the service running, we are not collecting additional user or tracking data.
+We have a minimum-collection policy. Aside from essential data required to keep the service running, we are not collecting additional user or tracking data.
 
 ### User contributions
 
@@ -20,5 +20,5 @@ Law requires us to maintain up-to-date records of our membership data. This is t
 
 ### Records from testing service and pre-announcement subscription list
 
-The pre-announcement subscription list was intended for single use only and has been deleted after announcement of the Codeberg.org launch. Accounts on pre-announcement testing services have been migrated to Codeberg.org, where possible. These accounts and the connected data can be deleted using the "Delete Account" button on your personal account page. All unused data from testing servers has been deleted after launch.
+The pre-announcement subscription list was intended for single use only and has been deleted after the announcement of the Codeberg.org launch. Accounts on pre-announcement testing services have been migrated to Codeberg.org, where possible. These accounts and the connected data can be deleted using the "Delete Account" button on your personal account page. All unused data from testing servers has been deleted after launch.
 

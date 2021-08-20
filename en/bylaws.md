@@ -24,7 +24,7 @@ Therefore, the purpose of Codeberg e.V. is the creation and operation of a free 
 
 ## § 2 Purpose and tasks
 
-(1) The purpose of the association is to promote the creation, collection, distribution and preservation of Free Content (Open Content, Free Cultural Works) and Free and Open Source Software (FOSS) and their documentation in selfless work to enable equal opportunities regarding the access to knowledge and education. Furthermore this also intends to raise awareness for the social and philosophical questions interconnected with this.
+(1) The purpose of the association is to promote the creation, collection, distribution and preservation of Free Content (Open Content, Free Cultural Works) and Free and Open Source Software (FOSS) and their documentation in selfless work to enable equal opportunities regarding the access to knowledge and education. Furthermore, this also intends to raise awareness for the social and philosophical questions interconnected with this.
 
 (2) For the collection and distribution of free content, open and commonly used Repository and Version Control Systems ("RCS" and "VCS") that save and preserve the whole history of the creation and improvement of Open Source software and make it freely available to society on the Internet, should be primarily but not exclusively used and generally made available. A prominent example is "GIT", a software created by Linux developer Linus Torvalds.
 
@@ -41,7 +41,7 @@ Therefore, the purpose of Codeberg e.V. is the creation and operation of a free 
 
 (6) The association solely and directly serves non-commercial purposes as of paragraph "steuerbegünstigte Zwecke" (tax-privileged purposes) of the "Abgabenordnung" (German *Fiscal Code*) 1977 (§§51 ff. AO) in the latest valid version. It acts selflessly and does not primarily pursue self-serving goals.
 
-(7) Means of the association may only be used for purposes in accordance with the bylaws. Members in their role as member do not receive financial support from the funds of the association. Members are not allowed to receive parts of the association's assets when leaving, or during a forced or voluntary dissolution of the association. No person may receive financial benefits for reasons which are not in accordance with the association's purposes, neither may anyone receive excessive benefits.
+(7) Means of the association may only be used for purposes in accordance with the bylaws. Members in their role as member do not receive financial support from the funds of the association. Members are not allowed to receive parts of the association's assets when leaving or during a forced or voluntary dissolution of the association. No person may receive financial benefits for reasons which are not in accordance with the association's purposes, neither may anyone receive excessive benefits.
 
 
 ## § 3 Membership
@@ -57,7 +57,7 @@ Therefore, the purpose of Codeberg e.V. is the creation and operation of a free 
 
 ## § 4 Rights and duties of the members
 
-(1) Members are permitted to attend all offered events of the association. Additionally, they have the right to submit requests to the the Presidium and the general assembly.
+(1) Members are permitted to attend all offered events of the association. Additionally, they have the right to submit requests to the Presidium and the general assembly.
 
 (2) The members support the association and its purpose in an adequate fashion. They are obliged to pay their dues as prescribed by the latest valid membership fee regulation (German *Beitragsordnung*). Further they are obliged to immediately inform the association in case of changes in their postal address, email address and bank details. The member is liable for any consequences that are a result of ignoring these obligations and frees the association from any liability.
 
@@ -76,7 +76,7 @@ Therefore, the purpose of Codeberg e.V. is the creation and operation of a free 
 
 (2) Membership ends with voluntary resignation, exclusion, death of the member or loss of legal capacity for legal persons.
 
-(3) The resignation of an active or honorary member must be declared in written form by the end of the fiscal year. The board decides on termination of membership during the year upon application by the member.
+(3) The resignation of an active or honorary member must be declared in written form by the end of the fiscal year. The board decides on the termination of membership during the year upon application by the member.
 
 (4) The resignation of a supporting member can be declared at any time and with immediate effect in writing or via email.
 
@@ -127,7 +127,7 @@ i) Decisions on the raising of loans which would put the sum of the association'
 
 (2) The general assembly is to be called by the presidium once a year and should be held in the first half of the year. The invitation must be issued at least six weeks in advance in written form or by email, stating the agenda and already submitted requests. Objections to the schedule and election proposals as well as proper requests by members must be received by the executive board at least four weeks before the assembly.
 
-(3) The regular general assembly is carried out via online platform.
+(3) The regular general assembly is carried out via an online platform.
 
 a) The online platform is made available via the Internet and is only accessible to members of the association. The authentication for the log-in of members and for voting is realized with their personal log-in credentials.
 
@@ -137,11 +137,11 @@ c) When electing members of the presidium or financial auditors, voting on chang
 
 d) Further details are specified by the election regulations.
 
-(4) The general assembly can decide to provide further elections and requests to the members for decision via remote vote. In this decision the period for the remote election must be fixed. Further to this the regulations of paragraph 3 apply accordingly.
+(4) The general assembly can decide to provide further elections and requests to the members for decision via remote vote. In this decision the period for the remote election must be fixed. Further to this, the regulations of paragraph 3 apply accordingly.
 
 (5) Later requests are to be dealt with if the general assembly accepts to their dealing (Requests for urgent procedure).
 
-(6) The presidium has to call for an extraordinary general assembly immediately and with precise statement of reasons if the interest of the association requires it or a significant portion of the members demands it from the presidium in written form, stating their purpose and reasons. Depending on the amount of members in the association the following is considered as "significant":
+(6) The presidium has to call for an extraordinary general assembly immediately and with a precise statement of reasons if the interest of the association requires it or a significant portion of the members demands it from the presidium in written form, stating their purpose and reasons. Depending on the amount of members in the association the following is considered as "significant":
 
 > 1 - 1000: At least 10 % of the members,
 
@@ -156,7 +156,7 @@ d) Further details are specified by the election regulations.
 
 (2) Each properly summoned general assembly is competent.
 
-(3) The general assembly takes decisions with simple majority. In case of equal votes, the request is considered as rejected.
+(3) The general assembly takes decisions with simple majority. In case of equal votes, the request is considered rejected.
 
 (4) Changes to the bylaws and decisions for the dissolution of the association require a majority of two thirds of the recorded votes. Changes to the bylaws may only be voted upon if this item has already been mentioned in the agenda inside the invitation to the general assembly (within the period specified in the bylaws) and if the current and proposed text of the bylaws were appended to the invitation.
 
@@ -178,7 +178,7 @@ d) Further details are specified by the election regulations.
   - decide changes to the economic plan for the current year;
   - represent the association in bodies in which it is involved in accordance with § 2 (5).
 
-(4) In case a member of the presidium leaves prior to the end of their office period or is elected as of sentence 1 into another position, the presidium may decide with a majority of two-third to co-opt another electable member as a substitute member or carry out a re-election at the next general assembly. If the number of elected members of the presidium decreases to less than three, a general assembly has to be called to hold a re-election.
+(4) In case a member of the presidium leaves prior to the end of their office period or is elected as of sentence 1 into another position, the presidium may decide with a majority of two-thirds to co-opt another electable member as a substitute member or carry out a re-election at the next general assembly. If the number of elected members of the presidium decreases to less than three, a general assembly has to be called to hold a re-election.
 
 (5) The liability of the presidium is limited to intent and gross negligence.
 
@@ -255,9 +255,9 @@ Blankenfelde-Mahlow (Germany), 9th September 2018
 
 (1) Members decide on the amount of their membership fee upon registration. A change of amount is effected via email to the executive board.
 
-(2) The minimal yearly membership fee for natural persons is 24 Euro.
+(2) The minimal yearly membership fee for natural persons is 24 euros.
 
-(3) The minimal yearly membership fee for legal entities is 100 Euro. The executive board decides on exceptions upon request.
+(3) The minimal yearly membership fee for legal entities is 100 euros. The executive board decides on exceptions upon request.
 
 (4) Honorary members are exempted from payments as stated in the bylaws.
 
@@ -266,7 +266,7 @@ Blankenfelde-Mahlow (Germany), 9th September 2018
 
 (1) For members with limited financial means (e.g. pupils, students, unemployed, pensioners and social welfare recipients), the minimum membership fee can be reduced upon request.
 
-(2) The discounted minimal yearly fee is 12 Euro.
+(2) The discounted minimal yearly fee is 12 euros.
 
 (3) The board decides on the written application for a discount of the membership fee on the basis of paragraph 1.
 

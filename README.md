@@ -1,6 +1,6 @@
 # Legal Documents for Codeberg
 
-This repository contains the legal documents for the Codeberg e.V. (German association). The legally binding documents are in the root of this repo in their original language. These are:
+This repository contains the legal documents for the Codeberg e.V. (German association). The legally binding documents are at the root of this repo in their original language. These are:
 
 - [Imprint.md](Imprint.md) (En): Legally required information about the platform operator (Codeberg)
 - [PrivacyPolicy.md](PrivacyPolicy.md) (En): As title - the privacy policy.
