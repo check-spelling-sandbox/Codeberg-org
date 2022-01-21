@@ -21,10 +21,10 @@ We welcome you ("you" or the "user") as a contributor, user, editor or reader, a
 1. Repository content shall be licensed under an open-source license approved by the Free Software Foundation ([see list of the FSF](https://www.gnu.org/licenses/license-list.html)) or the Open Source Initiative ([see list of the OSI](https://opensource.org/licenses/)).  
    Reasonable exceptions are to a very limited extent considered acceptable. For example, releasing single logo image files of a FOSS project under no licence or a separate non-free licence that requires derivative works to use their own logo that is clearly distinguishable from the original work even in absence of trademark registration.
 2. Private repositories are only allowed for things required for OSS projects, like storing secrets, team-internal discussions or hiding projects from the public until they're ready for usage and/or contribution. They are also allowed for really small & personal stuff like your journal, config files, ideas or notes, but explicitly not as a personal cloud or media storage.
-3. Forks, migrations and testing repos are considered as inactive when they don't contain unique contributions and are inactive for more than a month. They shouldn't be kept for a prolonged amount of time, and thus might be removed after noticing maintainers and providing a 90 days period to ask for preservation.
+3. Forks, migrations and testing repos are considered as inactive when they don't contain unique contributions and are inactive for more than a month. They shouldn't be kept for a prolonged amount of time, and thus might be removed after notifying maintainers and providing a 90 days period to ask for preservation.
 4. Repositories and attachments may not contain harmful code that can be run accidentally during normal development workflow and should use proper disclaimers and protections if applicable. Furthermore, software that is clearly written to do harm to other computers is only allowed in the context of security research or education and must be flagged accordingly.
 5. You must not share any content that's expressing hate or encouraging violence towards a person or group for any reason. We also *explicitly* do not tolerate:
-   - Discriminatory behaviour towards and promoting oppression especially of marginalized groups on grounds of ethnicity, gender, disability, nationality, education, age, and religion.
+   - Discriminatory behaviour towards and promoting oppression, especially of marginalized groups on grounds of ethnicity, gender, disability, nationality, education, age, and religion.
    - Violent nationalist propaganda, Nazi symbolism or promoting the ideology of National Socialism.
    - Mobbing, stalking, doxxing (exposing someone's personal information), brigading (inciting a group to spam a specific place for any reason), threatening and harassment, as well as encouraging others to do those things.
    - Insults, discriminatory jokes, sexualized comments and other unwanted sexual attention.
@@ -40,7 +40,7 @@ We welcome you ("you" or the "user") as a contributor, user, editor or reader, a
 
 (5) Actions intended to damage the association, its reputation, service availability or performance may lead to immediate account suspension. In the case of excessive traffic/resource usage, or unreasonable storage requirements, a warning will normally be issued at first, unless the actions are obviously done with malicious intent.
 
-(6) Maintainers of a project can enforce stricter rules, for example by adding an easily discoverable Code of Conduct as a file in the repository root. It's the maintainers task to enforce such additional rules.
+(6) Maintainers of a project can enforce stricter rules, for example by adding an easily discoverable Code of Conduct as a file in the repository root. It's the maintainers' task to enforce such additional rules.
 
 
 ## § 3 Responsibilities, Copyright & Guarantees
@@ -54,7 +54,7 @@ We welcome you ("you" or the "user") as a contributor, user, editor or reader, a
 
 (3) We make no guarantees about the availability of the content hosted on our platform. Although we try to preserve all content for the future, you are solely responsible for making regular backups of everything you rely on.
 
-(4) Changes to the Terms of Use are communicated via an announcement banner in your dashboard. If you do not login for longer than three months, it is your own responsability to recheck for the current Terms of Use. If you disagree to a change, you are responsible for closing your account.
+(4) Changes to the Terms of Use are communicated via an announcement banner in your dashboard. If you do not login for longer than three months, it is your own responsibility to recheck for the current Terms of Use. If you disagree to a change, you are responsible for closing your account.
 
 
 ## § 4 Cancellation and Termination
@@ -64,7 +64,7 @@ We welcome you ("you" or the "user") as a contributor, user, editor or reader, a
 
 (3) Accounts created for the sole purpose of advertisement (excessive promotion of a product, service or company) are removed immediately.
 
-(4) Please be aware that this list is neither exhaustive nor complete (illustrating the spirit of the law, not its letter). Be aware that any account can get suspended at any time if it is used for activities harming Codeberg e.V. or its associated platform and services, directly or indirectly even if these activities are not explicitly listed in the examples above.
+(4) Please be aware that this list is neither exhaustive nor complete (illustrating the spirit of the law, not its letter). Be aware that any account can get suspended at any time if it is used for activities harming Codeberg e.V. or its associated platform and services, directly or indirectly, even if these activities are not explicitly listed in the examples above.
 
 
 ## § 5 Disclaimer of Warranties and Liability
