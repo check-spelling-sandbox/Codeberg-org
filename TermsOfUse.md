@@ -60,7 +60,7 @@ We welcome you ("you" or the "user") as a contributor, user, editor or reader, a
 ## § 4 Cancellation and Termination
 (1) You may close your account at any time. Please be aware that it is your responsibility to remove content and contributions that you no longer wish to persist. All other content previously contributed by you might remain visible to other users of the platform.
 
-(2) Abandoned user accounts or organizations with no (or extremely few) all-time contributions may be deleted after being unused for 365 days. A warning via email must be given at least 1 month in advance in those cases.
+(2) Abandoned user accounts or organizations with no (or extremely few) all-time contributions may be deleted after being unused for 365 days. A warning via email is sent 1 month in advance.
 
 (3) Accounts created for the sole purpose of advertisement (excessive promotion of a product, service or company) are removed immediately.
 
