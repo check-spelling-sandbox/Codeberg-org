@@ -54,7 +54,7 @@ We welcome you ("you" or the "user") as a contributor, user, editor or reader, a
 
 (3) We make no guarantees about the availability of the content hosted on our platform. Although we try to preserve all content for the future, you are solely responsible for making regular backups of everything you rely on.
 
-(4) Changes to the Terms of Use are communicated via an announcement banner in your dashboard. If you do not login for longer than three months, it is your own responsability to recheck for the current Terms of Use. If you disagree to a change, you are responsible for closing your account within three months after the announcement.
+(4) Changes to the Terms of Use are communicated via an announcement banner in your dashboard. If you do not login for longer than three months, it is your own responsability to recheck for the current Terms of Use. If you disagree to a change, you are responsible for closing your account.
 
 
 ## § 4 Cancellation and Termination
