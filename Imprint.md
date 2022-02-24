@@ -8,16 +8,17 @@ Codeberg is a non-profit organisation dedicated to build and maintain supporting
 
 An Impressum (Latin _impressum_, usually translated to _"Imprint"_ in analogy to the printer's imprint according to UK law) is the legally mandated statement of the ownership and authorship of a document, which must be included in books, newspapers, magazines and websites published in Germany and certain other German-speaking countries, such as Austria and Switzerland. The Telemediengesetz (TMG, _"Telemedia Act"_) mandates an Impressum, ours you find here:
 
-```text
-Codeberg e.V.
-Gormannstraße 14
-10119 Berlin
 
-E-Mail: contact@codeberg.org
+> Codeberg e.V.
+> Gormannstraße 14
+> 10119 Berlin
+> 
+> E-Mail: contact@codeberg.org
+> Direct communication: https://matrix.to/#/#codeberg.org:matrix.org
+> 
+> Geschäftsführende Vorstände: Andreas Shimokawa und Holger Waechtler
+> Eingetragen im Vereinsregister des Amtsgerichts Charlottenburg VR36929.
 
-Geschäftsführende Vorstände: Andreas Shimokawa und Holger Waechtler
-Eingetragen im Vereinsregister des Amtsgerichts Charlottenburg VR36929.
-```
 
 ## Gemeinnützigkeit (recognition of status as non-profit NGO, recognition as tax-excempt entity)
 
