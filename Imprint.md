@@ -16,7 +16,8 @@ An Impressum (Latin _impressum_, usually translated to _"Imprint"_ in analogy to
 > E-Mail: contact@codeberg.org  
 > Direct communication: https://matrix.to/#/#codeberg.org:matrix.org
 > 
-> Geschäftsführende Vorstand: Otto Richter
+> Geschäftsführender Vorstand: Otto Richter
+>
 > Eingetragen im Vereinsregister des Amtsgerichts Charlottenburg VR36929.
 
 
