@@ -1,12 +1,12 @@
-Bitte beachte: Dies ist eine unoffizielle Übersetzung des [Englischen Originaldokuments](../Imprint.md). Bitte lies auch die weiteren Hinweise im Überordner dieses Repositories.
+Bitte beachte: Dies ist eine inoffizielle Übersetzung des [englischen Originaldokuments](../Imprint.md). Bitte lies auch die weiteren Hinweise im Überordner dieses Repositorys.
 
 ## Codeberg e.V.
 
-Codeberg ist eine gemeinnützige Organisation, die sich der Entwicklung und dem Betrieb einer Infrastruktur für die Entwicklung, Sammlung und Archivierung Freier und Open Source Software widmet. Falls Du Fragen, Vorschläge oder Kommentare hast, zögere nicht, uns über [contact@codeberg.org](mailto:contact@codeberg.org) zu kontaktieren.
+Codeberg ist eine gemeinnützige Organisation, die sich der Entwicklung und dem Betrieb einer Infrastruktur für die Entwicklung, Sammlung und Archivierung Freier und Open-Source-Software widmet. Falls Du Fragen, Vorschläge oder Kommentare hast, zögere nicht, uns über [contact@codeberg.org](mailto:contact@codeberg.org) zu kontaktieren.
 
 ## Impressum nach §5 TMG 
 
-Das Impressum (Latin _impressum_) ist die rechtliche Angabe der Besitzverhäkltnisse eines Dokuments, welches in in Deutschland und weiteren deutschsprachigen Ländern wie etwa der Schweiz und Österreich veröffentlichten Büchern, Zeitungen und -schriften sowie Webseiten enthalten sein muss. Das Telemediengesetz (TMG) erfordert ein Impressum, unseres ist hier:
+Das Impressum ist die rechtliche Angabe über die Urheber- bzw. Autorschaft bezüglich eines Dokuments, welche in Deutschland und in anderen deutschsprachigen Ländern wie etwa der Schweiz und Österreich in veröffentlichten Büchern, Zeitungen, Websites und anderen Print- oder Telemedien enthalten sein muss. Das Telemediengesetz (TMG) erfordert ein solches Impressum; unseres ist folgendes:
 
 ```text
 Codeberg e.V.
@@ -21,7 +21,7 @@ Eingetragen im Vereinsregister des Amtsgerichts Charlottenburg VR36929.
 
 ## Gemeinnützigkeit 
 
-Codeberg e.V. ist von deutschen Steuerbehörden als steuerbefreite Gemeinnützige Organisation anerkannt. In deutschem Beamtendeutsch liest sich das so:
+Codeberg e.V. ist von deutschen Steuerbehörden als steuerbefreite gemeinnützige Organisation anerkannt. In Beamtendeutsch liest sich das so:
 
 ```text
 Der Codeberg e.V. ist mit Bescheid vom 23. Juni 2020 vom Finanzamt für Körperschaften I (Berlin) steuerbegünstigt
@@ -60,4 +60,4 @@ codeberg.org ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIIVIC02vnjFyL+I4RHfvIGNtOgJMe76
 
 ## API
 
-Bitte schaue in die [offiielle Gitea Swagger API Dokumentation (Englisch)](https://docs.gitea.io/en-us/api-usage/) für weitere Informationen zum API-Zugang.
+Bitte schaue in die [offizielle Gitea-Swagger-API-Dokumentation (englisch)](https://docs.gitea.io/en-us/api-usage/) für weitere Informationen zum API-Zugang.

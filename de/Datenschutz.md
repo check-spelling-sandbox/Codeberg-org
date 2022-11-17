@@ -1,4 +1,4 @@
-Bitte beachte: Dies ist eine inoffizielle Übersetzung des [Englischen Originaldokuments](../PrivacyPolicy.md). Bitte lies auch die weiteren Hinweise im Überordner dieses Repositories.
+Bitte beachte: Dies ist eine inoffizielle Übersetzung des [englischen Originaldokuments](../PrivacyPolicy.md). Bitte lies auch die weiteren Hinweise im Überordner dieses Repositorys.
 
 ## Kurz gesagt: Du hast die volle Kontrolle und Hoheit über deine Daten!
 
@@ -6,15 +6,15 @@ Wir haben einen Minimalsammlungs-Leitfaden. Abgesehen von notwendigen Daten, um 
 
 ### Nutzerbeiträge
 
-Für alle Daten, welche du beiträgst (z. B. Code und Inhalt, Kommentare, Repositories, Accountdaten und Einstellungen), hast du die volle Verantwortung und Kontrolle. Du kannst neue Sachen hinzufügen, erweitern und abändern. Falls Daten auf der Plattform nicht durch Nutzer:innen geändert werden können, ist dies als technischer Fehler zu betrachten und muss schnellstens behoben werden. Bitte melde solche Fälle und andere Fehler an den [Codeberg.org Community Issue Tracker](/Codeberg/Community/issues).
+Für alle Daten, welche du beiträgst (z. B. Code und Inhalt, Kommentare, Repositories, Accountdaten und Einstellungen), hast du die volle Verantwortung und Kontrolle. Du kannst neue Sachen hinzufügen, erweitern und abändern. Falls Daten auf der Plattform nicht durch Nutzer:innen geändert werden können, ist dies als technischer Fehler zu betrachten und muss schnellstens behoben werden. Bitte melde solche Fälle und andere Fehler an den [Codeberg.org-Community-Issue-Tracker](/Codeberg/Community/issues).
 
 ### Backupdateien
 
-Nachdem du Daten in deinem Account gelöscht hast, können rotierende Offline-Backups für bis zu 30 Tage nach DSGVO-Richtlinien weiter existieren.
+Nachdem du Daten in deinem Account gelöscht hast, können rotierende Offline-Backups für bis zu 30 Tage gemäß DSGVO weiter existieren.
 
 ### IP-Speicherung
 
-Serverlogs können IP-Adressen und Useragenten-Informationen von den verbundenen Computern enthalten. Diese Logs werden automatisch nach spätestens sieben Tagen gelöscht.
+Serverlogs können IP-Adressen und Useragent-Informationen von den verbundenen Computern enthalten. Diese Logs werden automatisch nach spätestens sieben Tagen gelöscht.
 
 ### Codeberg e.V. Mitgliedschaftsdaten
 
@@ -22,4 +22,4 @@ Wir sind gesetzlich dazu verpflichtet, aktuelle Aufzeichnungen unserer Mitgliede
 
 ### Aufzeichnungen der Testinstanz und der Bekanntmachungs-Mailingliste
 
-Die Bekanntmachungs-Mailingliste war für einmaligen Gebrauch bestimmt und wurde nach dem Bekanntwerden der Eröffnung von Codeberg.org gelöscht. Accounts der Testinstanz wurden auf Codeberg.org migriert, wo dies möglich war. Diese Accounts und ihre verbundenen Daten können über die Funktion "Account löschen" in den persönlichen Nutzereinstellungen gelöscht werden. Alle unbenutzten Daten der Testserver wurden beim Start vernichtet.
+Die Bekanntmachungs-Mailingliste war für einmaligen Gebrauch bestimmt und wurde nach dem Bekanntwerden der Eröffnung von Codeberg.org gelöscht. Accounts der Testinstanz wurden nach Codeberg.org migriert, wo dies möglich war. Diese Accounts und ihre zugehörigen Daten können über die Funktion „Account löschen“ in den persönlichen Nutzereinstellungen gelöscht werden. Alle unbenutzten Daten der Testserver wurden beim Start vernichtet.
