@@ -26,7 +26,7 @@ Zweck und Aufgabe des Codeberg e.V. ist deshalb der Aufbau und Betrieb einer fr
 
 (1) Zweck des Vereins ist es, die Schaffung, Sammlung, Verbreitung und Bewahrung Freier Inhalte (Free Content, Open Content, Free Cultural Work) und Freier und Offener Software (Free and Open Source Software, FOSS), und deren Dokumentation in selbstloser Tätigkeit zu fördern, um damit die Chancengleichheit beim Zugang zu Wissen und Bildung zu ermöglichen. Dazu soll auch das Bewusstsein für die damit zusammenhängenden gesellschaftlichen und philosophischen Fragen geschärft werden.
 
-(2) Bei der Sammlung und Verbreitung der Freien Inhalte sollen in erster Linie, aber nicht ausschließlich, offene und gemeinschaftlich genutzte Archivverwaltungs- und Versionskontrollsysteme verwendet und zur allgemeinen Verfügung gestellt werden (engl. Repository and Version Control Systems, „RCS“ und „VCS“), die die gesamte Geschichte der Entstehung und Verbesserung von Open-Source-Software speichern, bewahren und der Gesellschaft über das Internet frei zugänglich machen. Prominentes Beispiel ist das vom Linux-Entwickler Linus Thorvalds begründete „GIT“.
+(2) Bei der Sammlung und Verbreitung der Freien Inhalte sollen in erster Linie, aber nicht ausschließlich, offene und gemeinschaftlich genutzte Archivverwaltungs- und Versionskontrollsysteme verwendet und zur allgemeinen Verfügung gestellt werden (engl. Repository and Version Control Systems, „RCS“ und „VCS“), die die gesamte Geschichte der Entstehung und Verbesserung von Open-Source-Software speichern, bewahren und der Gesellschaft über das Internet frei zugänglich machen. Prominentes Beispiel ist das vom Linux-Entwickler Linus Torvalds begründete „GIT“.
 
 (3) Der Verein agiert unabhängig und selbstständig.
 
