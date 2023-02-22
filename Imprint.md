@@ -13,7 +13,7 @@ An Impressum (Latin _impressum_, usually translated to _"Imprint"_ in analogy to
 > Gormannstraße 14  
 > 10119 Berlin
 >
-> **Please note: in March 2023, our address will change to (please send mail there):**
+> **Please note: in March 2023, our address will change to (please send mail there):**  
 > Codeberg e.V.
 > Arminiusstraße 2 - 4
 > 10551 Berlin
