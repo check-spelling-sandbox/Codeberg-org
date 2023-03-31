@@ -8,12 +8,6 @@ Codeberg is a non-profit organisation dedicated to build and maintain supporting
 
 An Impressum (Latin _impressum_, usually translated to _"Imprint"_ in analogy to the printer's imprint according to UK law) is the legally mandated statement of the ownership and authorship of a document, which must be included in books, newspapers, magazines and websites published in Germany and certain other German-speaking countries, such as Austria and Switzerland. The Telemediengesetz (TMG, _"Telemedia Act"_) mandates an Impressum, ours you find here:
 
-
-> Codeberg e.V.  
-> Gormannstraße 14  
-> 10119 Berlin
->
-> **Please note: in March 2023, our address will change to (please send mail there):**  
 > Codeberg e.V.  
 > Arminiusstraße 2 - 4  
 > 10551 Berlin
