@@ -1,8 +1,15 @@
 ## Codeberg e.V.
 
-Codeberg is a non-profit organisation dedicated to build and maintain supporting infrastructure for the creation, collection, dissemination, and archiving of Free and Open Source Software. If you have questions, suggestions or comments, please do not hesitate to contact us at [contact@codeberg.org](mailto:contact@codeberg.org).
+Codeberg is a non-profit organisation dedicated to build and maintain supporting infrastructure for the creation, collection, dissemination, and archiving of Free and Open Source Software. If you have questions, suggestions or comments **regarding Codeberg as a platform**, please do not hesitate to contact us at [contact@codeberg.org](mailto:contact@codeberg.org).
+Please note that all **actual content** on Codeberg is managed by **user accounts or project teams**.
+Unless the content violates our Terms of Use, please **contact them directly.**
 
 **If you encounter abusive or malicious user content, please notify us at  [abuse@codeberg.org](mailto:abuse@codeberg.org).**
+
+**If you encounter security issues in the software we use**, please send them to the Forgejo security team via [security@forgejo.org].
+They are collaborating with Codeberg and it reduces the time to fix. [(Details and PGP key)](https://forgejo.org/.well-known/security.txt)
+For other issues, please contact us at the address provided in the imprint below.
+
 
 ## Impressum nach §5 TMG (Imprint according to German Law)
 
@@ -61,4 +68,4 @@ codeberg.org ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIIVIC02vnjFyL+I4RHfvIGNtOgJMe76
 
 ## API
 
-Please refer to the [official Gitea Swagger API documentation](https://docs.gitea.io/en-us/api-usage/) for information to access the API endpoints.
+Please refer to the [official Forgejo Swagger API documentation](https://forgejo.org/docs/latest/user/api-usage/) for information to access the API endpoints.
