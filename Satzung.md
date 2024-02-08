@@ -275,7 +275,7 @@ Blankenfelde-Mahlow, den 9. September 2018
 
 (1) Mitglieder bestimmen das Zahlungsintervall ihres Mitgliedsbeitrages bei der Anmeldung selbst, dabei kann die Zahlung der Mitgliedsbeiträge entweder monatlich, vierteljährlich, halbjährlich oder jährlich erfolgen.
 
-(2) Der Mitgliedsbeitrag wird spätestens zum ersten Tag des begonnenen Zahlungsintervalls bzw. mit der Annahme des Aufnahmeantrags in voller Höhe fällig. Für die Zeit zwischen Aufnahme und Beginn des ersten regulären Zahlungsintervalls wird der erste Beitrag anteilig berechnet, d.h. erfolgt beispielsweise die Aufnahme bei monatlicher Zahlung 14 Kalendertage vor dem Ende eines Monats mit 31 Tagen, so beträgt der erste Beitrag 14/31=45% des Regelbeitrages.
+(2) Der Mitgliedsbeitrag wird spätestens zum ersten Tag des begonnenen Zahlungsintervalls bzw. mit der Annahme des Aufnahmeantrags in voller Höhe fällig. Ein anderer regelmäßiger Zeitpunkt innerhalb des Zahlungsintervalls kann individuell vereinbart werden. Für die Zeit zwischen Aufnahme und Beginn des ersten regulären Zahlungsintervalls wird der erste Beitrag anteilig berechnet, d.h. erfolgt beispielsweise die Aufnahme bei monatlicher Zahlung 14 Kalendertage vor dem Ende eines Monats mit 31 Tagen, so beträgt der erste Beitrag 14/31=45% des Regelbeitrages.
 
 (3) Die Zahlung des Beitrages erfolgt im Lastschriftverfahren. Auf besonderen Wunsch kann der Beitrag auch per Überweisung gezahlt werden. Hierbei ist jeweils die Mitgliedsnummer anzugeben.
 
