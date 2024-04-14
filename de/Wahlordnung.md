@@ -37,6 +37,6 @@
 
 (1) Der Wahlleiter muss sicherstellen, dass die folgenden Aspekte berücksichtigt werden:
 
-- An alle Wahlberechtigten wurde eine E-Mail an die dem Verband bekannte E-Mail-Adresse geschickt.
-- Jede wahlberechtigte Person hat einen individuellen Token zur Stimmabgabe, der nur einmal verwendet werden kann.
+- An alle Wahlberechtigten wurde eine E-Mail an die dem Verein bekannte E-Mail-Adresse geschickt.
+- Jede wahlberechtigte Person erhält einen individuellen Token zur Stimmabgabe, der nur einmal verwendet werden kann.
 - Welche Person bzw. welcher Token für welche Option gestimmt hat, kann nach der Stimmabgabe nicht mehr eingesehen werden.
