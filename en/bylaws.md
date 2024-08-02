@@ -72,7 +72,7 @@ Therefore, the purpose of Codeberg e.V. is the creation and operation of a free 
 
 ## § 5 Begin and end of the membership
 
-(1) The membership must be applied for in writing to the executive board. Application via email or online form is permitted. The board decides over the application if the Presidium does not contradict it. The board is not obliged to inform the applicant about the reasons for disapproval. The disapproved applicant can call the general assembly to take a final decision on his application.
+(1) The membership must be applied for in writing to the executive board. Application via email or online form is permitted. The board decides over the application if the Presidium does not contradict it. The board is not obliged to inform the applicant about the reasons for disapproval. The disapproved applicant can call the general assembly to take a final decision on their application.
 
 (2) Membership ends with voluntary resignation, exclusion, death of the member or loss of legal capacity for legal persons.
 
