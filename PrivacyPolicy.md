@@ -2,7 +2,9 @@
 
 ## 1 General Information
 
-As a non-profit organization, we don't gain much from collecting your data: we just use it for what we need to be a great platform and community for the FOSS world. This document outlines our responsibilities and duties regarding the processing of your personal data and inform you about your rights according to § 13 DSGVO.
+**We don't want to need your data.** We therefore want to be fully transparent about how we use it, and are always open to viable suggestions on how to reduce your data footprint on our servers. We try to use privacy-friendly open source software and not rely on third parties whenever possible in our modern world, both as a provider of our public FOSS forge and as a German non-profit organization.
+
+This document helps to achieve that goal by outlining our responsibilities and duties regarding the processing of your personal data and inform you about your rights according to § 13 DSGVO.
 
 ## 2 Contact
 
@@ -45,18 +47,22 @@ Photos from e.g. events & meetings might be shared, for example on social media 
 
 Personal data may only be processed by the association bodies which are responsible for the respective tasks. This specifically means that:
 
-- The executive board can process all membership details & payment information in order to fulfil their tasks according to our bylaws.
+- The members of the executive board can process all membership details & payment information in order to fulfil their duties according to the bylaws.
 - The cash auditors can access bank statements and other financial details, but must only use the data to fulfil the task of auditing the association's finances.
+- The moderation team can access private repositories & additional metadata required to investigate potential violations of our terms.
+- The appointed infrastructure admins can potentially access all resources stored on our servers, as required for maintaining our infrastructure neccessary to provide Codeberg's services, as well as to provide tooling to support association members in their association work.
 - Every association member must legally be able to acquire a list of contact details (e.g. email address) of all association members.
-- The infrastructure team can access all resources stored on our servers, as required for maintaining our infrastructure neccessary to provide Codeberg's services, as well as to provide tooling to support association members in their association work.
+- Tasks involving processing personal data may be delegated to other people within the association by the responsible person.
 
-Some third parties might be involved with processing personal data under a specific data processing agreement, for example the Deutsche Skatbank, Hetzner Online GmbH or IN Berlin. The full & updated list can be requested through the presidium.
+Some third parties might be involved with processing personal data under a specific data processing agreement. The full list is attached below.
 
 ## 5 Data Retention
 
 - Account details are stored at most until the deletion of the account.
-- Membership details are stored until 3 years after the membership has ended.
-- Technical metadata like IP addresses may not be stored for more than 3 days.
+- Membership details are stored at most until 3 years after the membership has ended.
+- Technical metadata like IP addresses may not be stored for more than 7 days.
+- Personal data may exist in encrypted backups for up to 10 years, but will be purged upon the restoration of the backup if the data retention period is exceeded.
+- In general, personal data is stored according to German law.
 
 ## 6 Data Subject Rights
 
@@ -68,3 +74,17 @@ As a subject of personal data processing, you have the following rights:
 - **The right to object to processing:** you can object to and withdraw consent to Codeberg e. V. processing your personal data, under certain conditions.
 - **The right to data portability:** you can request that Codeberg e. V. transfers the data that we have collected to another organization, or directly to you, under certain conditions.
 - **If you make a request, we have one month to respond to you.** If you would like to exercise any of these rights, please use the contact information listed in (2) of this privacy policy.
+
+## Appendix: Full list of third parties involved with processing personal data under a specific data processing agreement
+
+| Third Party | Purpose | Processed Data |
+| ----------- | ------- | -------------- |
+| Deutsche Skatbank | Bank Account | Payment Data |
+| Hetzner Online GmbH | Fallback Server Hosting | User Data & Technical Metadata |
+| Individual Network Berlin e.V. (IN-Berlin) | Network & Colocation | Technical Metadata |
+| Gandi (?)   | Domain Registrar & DNS Resolver | DNS Requests |
+| Stripe, Inc. | Payment Processing | Payment Data (only for payments through Stripe) |
+| PayPal (Europe) S.à r.l. et Cie, S.C.A. | Payment Processing | Payment Data (only for payments through PayPal) |
+| Association Liberapay | Payment Processing | Payment Data (only for payments through LiberaPay) |
+
+No personal data was shared due to requests by law enforcement.
