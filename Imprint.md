@@ -11,9 +11,9 @@ They are collaborating with Codeberg and it reduces the time to fix. [(Details a
 For other issues, please contact us at the address provided in the imprint below.
 
 
-## Impressum nach §5 TMG (Imprint according to German Law)
+## Impressum nach §5 DDG (Imprint according to German Law)
 
-An Impressum (Latin _impressum_, usually translated to _"Imprint"_ in analogy to the printer's imprint according to UK law) is the legally mandated statement of the ownership and authorship of a document, which must be included in books, newspapers, magazines and websites published in Germany and certain other German-speaking countries, such as Austria and Switzerland. The Telemediengesetz (TMG, _"Telemedia Act"_) mandates an Impressum, ours you find here:
+An Impressum (Latin _impressum_, usually translated to _"Imprint"_ in analogy to the printer's imprint according to UK law) is the legally mandated statement of the ownership and authorship of a document, which must be included in books, newspapers, magazines and websites published in Germany and certain other German-speaking countries, such as Austria and Switzerland. The Digitale-Dienste-Gesetz (DDG, _"Digital Services Act"_) mandates an Impressum, ours you find here:
 
 > Codeberg e.V.  
 > Arminiusstraße 2 - 4  
