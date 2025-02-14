@@ -10,12 +10,12 @@ Das Impressum ist die rechtliche Angabe über die Urheber- bzw. Autorschaft bez�
 
 ```text
 Codeberg e.V.
-Gormannstraße 14
-10119 Berlin
+Arminiusstraße 2 - 4
+10551 Berlin
 
 E-Mail: contact@codeberg.org
 
-Geschäftsführender Vorstand: Holger Waechtler
+Geschäftsführender Vorstand: Otto Richter
 Eingetragen im Vereinsregister des Amtsgerichts Charlottenburg VR36929.
 ```
 
