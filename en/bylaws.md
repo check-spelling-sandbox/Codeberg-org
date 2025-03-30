@@ -275,6 +275,6 @@ Blankenfelde-Mahlow (Germany), 9th September 2018
 
 (1) Members determine their payment interval at registration. Fees can be either paid monthly, quarterly, half-yearly or yearly.
 
-(2) The membership fee is due in full amount at the first day of the commenced interval, respectively when the membership application gets accepted. For the period between the admission and commencement of the first regular payment interval, the amount is determined proportionally, i.e. if, for example, in the case of monthly payment, the admission takes place 14 calendar days before the end of a month with 31 days, the first contribution is 14/31=45% of the regular contribution.
+(2) The membership fee is due in full amount at the first day of the commenced interval, respectively when the membership application gets accepted. A different regular date within the payment interval can be agreed upon individually. For the period between the admission and commencement of the first regular payment interval, the amount is determined proportionally, i.e. if, for example, in the case of monthly payment, the admission takes place 14 calendar days before the end of a month with 31 days, the first contribution is 14/31=45% of the regular contribution.
 
 (3) The payment of the contribution is made by direct debit. On special request the contribution can also be paid by bank transfer. In this case, the membership number must be indicated.
