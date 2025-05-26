@@ -21,6 +21,8 @@ Therefore, the purpose of Codeberg e.V. is the creation and operation of a free 
 
 (3) The fiscal year is the calendar year.
 
+(4) In places where written communication is required, communication by e-mail is always included.
+
 
 ## § 2 Purpose and tasks
 
@@ -61,30 +63,32 @@ Therefore, the purpose of Codeberg e.V. is the creation and operation of a free 
 
 (2) The members support the association and its purpose in an adequate fashion. They are obliged to pay their dues as prescribed by the latest valid membership fee regulation (German *Beitragsordnung*). Further they are obliged to immediately inform the association in case of changes in their postal address, email address and bank details. The member is liable for any consequences that are a result of ignoring these obligations and frees the association from any liability.
 
-(3) Active members have active and passive election rights as well as the right to submit requests, vote and speak at general assemblies. Employees and former employees of the association whose employment relationship did not end more than one year prior to the date of the assembly are not eligible for being elected.
+(3) Active members have active and passive election rights as well as the right to submit requests, vote and speak at general assemblies.
 
 (4) Supporting members have the right to submit requests and to speak at assemblies but no voting or election rights.
 
 (5) Honorary members have the same rights and obligations as active members but are exempted from having to pay membership fees.
 
-(6) The positions in the association are held on a voluntary basis.
+(6) The positions in the association are in principle held on a voluntary basis.
+
+(7) The members of the Executive Board may receive appropriate remuneration for their activities. The Presidium is responsible for concluding, amending and terminating the contract.
 
 
 ## § 5 Begin and end of the membership
 
-(1) The membership must be applied for in writing to the executive board. Application via email or online form is permitted. The board decides over the application if the Presidium does not contradict it. The board is not obliged to inform the applicant about the reasons for disapproval. The disapproved applicant can call the general assembly to take a final decision on their application.
+(1) The membership must be applied for in writing or through an online form to the executive board. The board decides over the application if the Presidium does not contradict it. The board is not obliged to inform the applicant about the reasons for disapproval. The disapproved applicant can call the general assembly to take a final decision on their application.
 
-(2) Membership ends with voluntary resignation, exclusion, death of the member or loss of legal capacity for legal persons.
+(2) Membership ends with voluntary resignation, exclusion, removal, death of the member or loss of legal capacity for legal persons.
 
 (3) The resignation of an active or honorary member must be declared in written form by the end of the fiscal year. The board decides on the termination of membership during the year upon application by the member.
 
-(4) The resignation of a supporting member can be declared at any time and with immediate effect in writing or via email.
+(4) The resignation of a supporting member can be declared at any time and with immediate effect in writing or through an online form.
 
 (5) The exclusion of a member with immediate effect and with an important reason can be declared in case the member violated the bylaws, additional orders, the association's purposes or its interests. The exclusion of a member shall require a majority of two-thirds in a vote by the presidium. In advance to the decision, the member must be granted the opportunity to comment on the accusations within a period of two weeks.
 
 (6) With the end of membership for any reason, all claims from the membership end. A refund of fees, donations or other means of support is generally precluded. The association's claim on overdue fees of active members is hereby not touched.
 
-(7) The membership ends with removal if the address of the member is unknown against § 4 paragraph 2 sentence 2 or if in spite of two reminders at a minimum interval of two weeks the membership fee was not paid. The second reminder must have been sent in written form and must contain a notice of the removal. After expiry of a declaration period of three months, the membership ends automatically. The period starts with the sending of the second reminder.
+(7) The membership ends with removal if the postal address or email address of the member is unknown against § 4 paragraph 2 sentence 2 or if in spite of two written reminders at a minimum interval of two weeks the membership fee was not paid. The second reminder must contain a notice of the removal. After expiry of a declaration period of three months, the membership ends automatically. The period starts with the sending of the second reminder.
 
 
 ## § 6 Membership fees
@@ -119,13 +123,13 @@ e) To discharge the presidium and the executive board,
 
 f) To discuss and decide over existing requests,
 
-g) Approval of all rules of procedure inside to the association,
+g) Approval of all rules of procedure for the association (including fee regulations, election regulations, rules of procedure for the Presidium, platform terms of use, privacy policy and other regulations adopted by the General Assembly),
 
-h) Decisions on membership fee regulations,
+h) - not applicable -,
 
 i) Decisions on the raising of loans which would put the sum of the association's total liabilities in excess of four percent of the total revenues of the preceding year.
 
-(2) The general assembly is to be called by the presidium once a year and should be held in the first half of the year. The invitation must be issued at least six weeks in advance in written form or by email, stating the agenda and already submitted requests. Objections to the schedule and election proposals as well as proper requests by members must be received by the executive board at least four weeks before the assembly.
+(2) The general assembly is to be called by the presidium once a year and should be held in the first half of the year. The invitation must be issued at least six weeks in advance in written form, stating the agenda and already submitted requests. Objections to the schedule and proper requests by members must be received by the executive board at least two weeks before the assembly.
 
 (3) The regular general assembly is carried out via an online platform.
 
@@ -137,7 +141,7 @@ c) When electing members of the presidium or financial auditors, voting on chang
 
 d) Further details are specified by the election regulations.
 
-(4) The general assembly can decide to provide further elections and requests to the members for decision via remote vote. In this decision the period for the remote election must be fixed. Further to this, the regulations of paragraph 3 apply accordingly.
+(4) The election regulations can regulate when elections and resolutions can be held remotely without convening a general meeting.
 
 (5) Later requests are to be dealt with if the general assembly accepts to their dealing (Requests for urgent procedure).
 
@@ -163,7 +167,7 @@ d) Further details are specified by the election regulations.
 
 ## § 10 Presidium
 
-(1) The presidium consists of five representatives elected by the general assembly. The presidium may co-opt up to two additional electable members of the association into the presidium for their period of office with a two-thirds majority vote.
+(1) The presidium consists of at least five and at most eight representatives elected by the general assembly. The presidium may co-opt up to two additional electable members of the association into the presidium for their period of office with a two-thirds majority vote.
 
 (2) The period of office of the elected members of the presidium is two years. The period of office of the old presidium ends with the day of the election of the new presidium. The business of the presidium is continued by the old presidium until the transfer of official business to the new presidium. The handover has to take place within four weeks of the election of the new presidium.
 
@@ -171,7 +175,7 @@ d) Further details are specified by the election regulations.
 
   - represent the association towards the members;
   - appoint and dismiss the members of the executive board;
-  - appoint, change and dismiss employment contracts;
+  - realize the measures, strategies and goals decided by the general assembly;
   - continue developing the strategic focus of the association and to formulate goals for the executive board;
   - control and oversee the business operations of the board;
   - grant prior approval of legal businesses as of § 12 (5);
@@ -182,7 +186,11 @@ d) Further details are specified by the election regulations.
 
 (5) The liability of the presidium is limited to intent and gross negligence.
 
-(6) If a member of the presidium severely violates the regulations or the interests of the association or repeatedly and heavily interferes with the work of the presidium, it can be suspended from its position with immediate effect, given an important reason. The presidium decides over the suspension with a majority of two-third. Prior to the decision, the member of the presidium must be granted the possibility to comment on the accusations made. The rights and duties resulting of the position of the concerned person lie dormant for the period of suspension. At longest, the suspension stays in effect until the next general assembly. If the term of office does not end by then anyway, the members of the association decide over a dismissal from the presidium.
+(6) If a member of the presidium severely violates regulations or the interests of the association, or repeatedly and heavily interferes with the work of the presidium, they may be suspended from office with immediate effect, given an important reason. The presidium shall decide on the suspension by a two-thirds majority vote. In this case, a General Assembly must be convened immediately, at which the member of the presidium must be given the opportunity to comment on the allegations made and a vote must be taken on the dismissal of the member from the presidium.
+
+(7) The General Assembly can vote on the dismissal of members from the presidium, for which a 2/3 majority is required. A new member must then be elected without delay.
+
+(8) The Presidium can form dedicated teams to delegate tasks. These teams do not form their own association body. Further details are governed by the Presidium's rules of procedure.
 
 
 ## § 11 Resolutions by the presidium
@@ -200,11 +208,11 @@ d) Further details are specified by the election regulations.
 
 ## § 12 Executive board
 
-(1) The executive board according to § 26 BGB (German *Civil Code*) must consist of at least one person. The presidium can order more people to the board. Board members must be members of the association, but may not be part of the presidium.
+(1) The executive board according to § 26 BGB (German *Civil Code*) must consist of at least one and at most three persons. Board members must be members of the presidium.
 
 (2) The board is elected by the presidium for a duration of one year. Re-election is permitted. The board can be dismissed at any time by a resolution with a two-thirds majority of votes by the presidium.
 
-(3) A board member represents the association on its own if it is the association's only board member. In case the association has multiple board members, they represent the association together.
+(3) - not applicable -
 
 (4) The presidium can give all members, or single members of the board the power to single-handedly represent the board.
 
@@ -215,7 +223,7 @@ d) Further details are specified by the election regulations.
 
 (6) The executive board may in particular:
   - lead the businesses of the association;
-  - realize the measures, strategies and goals decided by the general assembly or the presidium;
+  - appoint, change and dismiss employment contracts after consultation with the presidium;
   - provide the business plan for approval to the general assembly through the presidium
   - provide changes to the current business plan to the presidium for approval
   - create and provide the annual accounts for discussion and approval to the general assembly through the presidium

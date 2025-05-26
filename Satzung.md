@@ -1,4 +1,4 @@
-# Satzung des Codeberg e.V. in der Fassung vom 23.01.2020
+# Satzung des Codeberg e.V. in der Fassung vom 27.11.2024
 
 ## Präambel
 
@@ -20,6 +20,8 @@ Zweck und Aufgabe des Codeberg e.V. ist deshalb der Aufbau und Betrieb einer fr
 (2) Der Sitz des Vereins ist Berlin. Er soll in das Vereinsregister eingetragen werden und trägt dann den Zusatz „e.V.“
 
 (3) Geschäftsjahr ist das Kalenderjahr.
+
+(4) An Stellen, an denen schriftliche Kommunikation gefordert wird, ist die Kommunikation per E-Mail stets mit eingeschlossen.
 
 
 ## § 2 Ziele und Aufgaben
@@ -61,30 +63,32 @@ Zweck und Aufgabe des Codeberg e.V. ist deshalb der Aufbau und Betrieb einer fr
 
 (2) Die Mitglieder unterstützen den Verein und den Vereinszweck in angemessener Weise. Sie sind verpflichtet, die laut gültiger Beitragsordnung zu leistende Zuwendung pünktlich zu zahlen. Sie sind außerdem dazu verpflichtet, dem Verein Änderungen ihrer Postadresse, E-Mail-Adresse und Bankverbindung umgehend mitzuteilen. Für Folgen, die sich daraus ergeben, dass das Mitglied dieser Pflicht nicht nachkommt, haftet das Mitglied und stellt den Verein von jeglicher Haftung frei.
 
-(3) Aktive Mitglieder besitzen das aktive und passive Wahlrecht sowie das Antrags-, Stimm- und Rederecht auf Mitgliedsversammlungen. Nicht wählbar sind Beschäftigte des Vereins und ehemalige Beschäftigte, wenn das Ende ihres Beschäftigungsverhältnisses am Tag der Wahl noch nicht ein Jahr zurückliegt.
+(3) Aktive Mitglieder besitzen das aktive und passive Wahlrecht sowie das Antrags-, Stimm- und Rederecht auf Mitgliedsversammlungen.
 
 (4) Fördermitglieder besitzen das Rede- und Antragsrecht auf Versammlungen, jedoch kein Stimm- oder Wahlrecht.
 
 (5) Ehrenmitglieder sind von der Beitragszahlung befreit und haben ansonsten die gleichen Rechte und Pflichten wie aktive Mitglieder.
 
-(6) Die Ämter des Vereins werden ehrenamtlich ausgeübt.
+(6) Die Ämter des Vereins werden grundsätzlich ehrenamtlich ausgeübt.
+
+(7) Die Mitglieder des Vorstandes können für ihre Tätigkeit eine angemessene Vergütung erhalten. Zuständig für den Abschluss, die Änderung und die Beendigung des Vertrages ist das Präsidium.
 
 
 ## § 5 Beginn und Ende der Mitgliedschaft
 
-(1) Die Mitgliedschaft muss gegenüber dem Vorstand schriftlich beantragt werden. Die Beantragung der Mitgliedschaft per E-Mail oder Online-Formular ist erlaubt. Über den Aufnahmeantrag entscheidet der Vorstand, sofern das Präsidium dem Antrag nicht widerspricht. Der Vorstand ist nicht verpflichtet, dem Antragsteller Ablehnungsgründe mitzuteilen. Der abgelehnte Antragsteller kann die Mitgliedsversammlung anrufen, abschließend über seinen Mitgliedsantrag zu entscheiden.
+(1) Die Mitgliedschaft muss gegenüber dem Vorstand schriftlich oder per Online-Formular beantragt werden. Über den Aufnahmeantrag entscheidet der Vorstand, sofern das Präsidium dem Antrag nicht widerspricht. Der Vorstand ist nicht verpflichtet, dem Antragsteller Ablehnungsgründe mitzuteilen. Der abgelehnte Antragsteller kann die Mitgliedsversammlung anrufen, abschließend über seinen Mitgliedsantrag zu entscheiden.
 
-(2) Die Mitgliedschaft endet durch freiwilligen Austritt, Ausschluss, Tod des Mitglieds oder Verlust der Rechtsfähigkeit bei juristischen Personen.
+(2) Die Mitgliedschaft endet durch freiwilligen Austritt, Ausschluss, Streichung, Tod des Mitglieds oder Verlust der Rechtsfähigkeit bei juristischen Personen.
 
 (3) Der Austritt eines aktiven Mitglieds oder eines Ehrenmitglieds muss durch Kündigung in Textform zum Ende des Geschäftsjahrs erklärt werden. Über unterjährige Beendigung der Mitgliedschaft entscheidet der Vorstand auf Antrag des Mitglieds.
 
-(4) Der Austritt eines Fördermitglieds kann jederzeit mit sofortiger Wirkung schriftlich oder per E-Mail durch Kündigung erklärt werden.
+(4) Der Austritt eines Fördermitglieds kann jederzeit mit sofortiger Wirkung schriftlich oder per Online-Formular durch Kündigung erklärt werden.
 
 (5) Der Ausschluss eines Mitglieds mit sofortiger Wirkung und aus wichtigem Grund kann dann ausgesprochen werden, wenn das Mitglied in grober Weise gegen die Satzung, Ordnungen, den Satzungszweck oder die Vereinsinteressen verstößt. Über den Ausschluss eines Mitglieds entscheidet das Präsidium mit zweidrittel Stimmenmehrheit. Vor dem Beschluss ist dem Mitglied unter Fristsetzung von zwei Wochen Gelegenheit zu geben, sich zu den erhobenen Vorwürfen zu äußern.
 
 (6) Bei Beendigung der Mitgliedschaft, gleich aus welchem Grund, erlöschen alle Ansprüche aus dem Mitgliedsverhältnis. Eine Rückgewähr von Beiträgen, Spenden oder sonstigen Unterstützungsleistungen ist grundsätzlich ausgeschlossen. Der Anspruch des Vereins auf rückständige Beitragsforderungen bleibt gegenüber aktiven Mitgliedern hiervon unberührt.
 
-(7) Die Mitgliedschaft endet durch Streichung, wenn die Anschrift des Mitglieds entgegen § 4 Absatz 2 Satz 2 unbekannt ist oder wenn trotz zweimaliger Mahnung im Mindestabstand von zwei Wochen die Mitgliedsbeiträge nicht entrichtet wurden. Die zweite Mahnung muss schriftlich erfolgt sein. In dieser ist auf die Streichung hinzuweisen. Nach Verstreichen einer Erklärungsfrist von drei Monaten endet die Mitgliedschaft automatisch. Die Frist beginnt mit dem Absenden der zweiten Mahnung.
+(7) Die Mitgliedschaft endet durch Streichung, wenn Postadresse oder E-Mail-Adresse des Mitglieds entgegen § 4 Absatz 2 Satz 2 unbekannt ist oder wenn trotz zweimaliger schriftlicher Mahnung im Mindestabstand von zwei Wochen die Mitgliedsbeiträge nicht entrichtet wurden. In dieser ist auf die Streichung hinzuweisen. Nach Verstreichen einer Erklärungsfrist von drei Monaten endet die Mitgliedschaft automatisch. Die Frist beginnt mit dem Absenden der zweiten Mahnung.
 
 
 ## § 6 Mitgliedsbeiträge
@@ -119,13 +123,11 @@ e) Das Präsidium und den Vorstand zu entlasten,
 
 f) Über vorliegende Anträge zu beraten und zu beschließen,
 
-g) Genehmigungen aller Geschäftsordnungen für den Vereinsbereich,
+g) Genehmigungen aller Geschäftsordnungen für den Vereinsbereich (dazu gehören Beitragsordnung, Wahlordnung, Geschäftsordnung des Präsidiums, Nutzungsbestimmungen der Plattform, die Datenschutzbestimmungen sowie weitere durch die Mitgliederversammlung beschlossene Ordnungen),
 
-h) Beschlüsse zur Beitragsordnung,
+h) Aufnahme von Darlehen zu beschließen, mit denen die Summe der Gesamtverbindlichkeiten des Vereins 4% der Gesamterlöse des Vorjahres übersteigen würde.
 
-i) Aufnahme von Darlehen zu beschließen, mit denen die Summe der Gesamtverbindlichkeiten des Vereins 4% der Gesamterlöse des Vorjahres übersteigen würde.
-
-(2) Die Mitgliederversammlung ist einmal jährlich vom Präsidium einzuberufen und sollte im ersten Halbjahr stattfinden. Die Einladung muss mindestens sechs Wochen vorher schriftlich oder per E-Mail, unter Angabe der Tagesordnung und bereits vorliegender Anträge, erfolgen. Einsprüche gegen die Tagesordnung und Wahlvorschläge sowie eigene Anträge der Mitglieder müssen beim Vorstand spätestens vier Wochen vor der Mitgliederversammlung eingegangen sein.
+(2) Die Mitgliederversammlung ist einmal jährlich vom Präsidium einzuberufen und sollte im ersten Halbjahr stattfinden. Die Einladung muss mindestens sechs Wochen vorher schriftlich, unter Angabe der Tagesordnung und bereits vorliegender Anträge, erfolgen. Einsprüche gegen die Tagesordnung sowie eigene Anträge der Mitglieder müssen beim Vorstand spätestens zwei Wochen vor der Mitgliederversammlung eingegangen sein.
 
 (3) Die reguläre Mitgliederversammlung wird per Online-Plattform durchgeführt.
 
@@ -137,7 +139,7 @@ c) Bei der Wahl von Präsidiumsmitgliedern, von Kassenprüfern, Satzungsänderun
 
 d) Näheres regelt die Wahlordnung.
 
-(4) Die Mitgliederversammlung kann beschließen, weitere Wahlen und Anträge den Mitgliedern zur Entscheidung per Fernwahl vorzulegen. In dem Beschluss ist der Zeitraum für die Durchführung dieser Fernwahl festzusetzen. Im Übrigen gelten die Regelungen aus Absatz 3 entsprechend.
+(4) In der Wahlordnung kann geregelt werden, wann Wahlen und Beschlüsse auch ohne Einberufung einer Mitgliederversammlung per Fernwahl stattfinden können.
 
 (5) Spätere Anträge sind zu behandeln, wenn die Mitgliederversammlung der Behandlung der Anträge zustimmt (Dringlichkeitsanträge).
 
@@ -150,7 +152,7 @@ d) Näheres regelt die Wahlordnung.
 (7) Beschlüsse der Mitgliederversammlung werden in einem Protokoll niedergelegt und von dem Vorstand sowie von zwei Mitgliedern des Präsidiums unterzeichnet. Das Protokoll ist den Mitgliedern binnen vier Wochen nach der Versammlung zugänglich zu machen. Es wird gültig, wenn binnen vier Wochen nach der Veröffentlichung kein Einspruch von einem Mitglied des Präsidiums oder von der Versammlungsleitung oder mindestens 10% der anwesenden Mitglieder erhoben wurde.
 
 
-## § 9 Stimmrecht und Beschlußfähigkeit
+## § 9 Stimmrecht und Beschlussfähigkeit
 
 (1) Jedes stimmberechtigte Mitglied hat eine Stimme. Das Stimmrecht ist nicht übertragbar.
 
@@ -163,7 +165,7 @@ d) Näheres regelt die Wahlordnung.
 
 ## § 10 Präsidium
 
-(1) Das Präsidium besteht aus fünf von der Mitgliederversammlung gewählten Vertretern. Das Präsidium kann für die Dauer seiner Amtszeit durch Beschluss mit zweidrittel Stimmenmehrheit bis zu zwei weitere wählbare Mitglieder des Vereins in das Präsidium kooptieren.
+(1) Das Präsidium besteht aus mindestens fünf und maximal acht von der Mitgliederversammlung gewählten Vertretern. Das Präsidium kann für die Dauer seiner Amtszeit durch Beschluss mit zweidrittel Stimmenmehrheit bis zu zwei weitere wählbare Mitglieder des Vereins in das Präsidium kooptieren.
 
 (2) Die Amtszeit der gewählten Präsidiumsmitglieder beträgt zwei Jahre. Die Amtszeit des alten Präsidiums endet mit dem Tag, an dem die Wahl des neuen Präsidiums erfolgt ist. Die Geschäfte des Präsidiums werden bis zur Übergabe der Amtsgeschäfte an das neue Präsidium vom alten Präsidium weitergeführt. Die Übergabe hat nach Wahl des neuen Präsidiums innerhalb von vier Wochen ab der Neuwahl zu erfolgen.
 
@@ -171,7 +173,7 @@ d) Näheres regelt die Wahlordnung.
 
   - Den Verein den Mitgliedern gegenüber zu repräsentieren;
   - Die Mitglieder des Vorstands zu bestellen und abzuberufen;
-  - Anstellungsverträge abzuschließen, zu ändern und zu beenden;
+  - Die von der Mitgliederversammlung festgelegten Maßnahmen, Strategien und Ziele umzusetzen;
   - Die strategische Ausrichtung des Vereins fortzuschreiben und Zielvorgaben für den Vorstand zu formulieren;
   - Die Geschäftsführung des Vorstands zu kontrollieren und zu beaufsichtigen;
   - Die vorherige Zustimmung zu Rechtsgeschäften gemäß § 12 Abs. 5 zu erteilen;
@@ -182,7 +184,11 @@ d) Näheres regelt die Wahlordnung.
 
 (5) Die Haftung des Präsidiums beschränkt sich auf Vorsatz und grobe Fahrlässigkeit.
 
-(6) Wenn ein Mitglied des Präsidiums in grober Weise gegen Ordnungen oder die Vereinsinteressen verstößt, oder die Arbeit des Präsidiums wiederholt schwerwiegend behindert, kann es aus wichtigem Grund mit sofortiger Wirkung von seinem Amt beurlaubt werden. Über die Beurlaubung entscheidet das Präsidium mit zweidrittel Stimmenmehrheit. Vor dem Beschluss ist dem Präsidiumsmitglied Gelegenheit zu geben, sich zu den erhobenen Vorwürfen zu äußern. Für die Dauer der Beurlaubung ruhen die sich aus dem Amt ergebenden Rechte und Pflichten des Betroffenen. Die Beurlaubung gilt längstens bis zur nächsten Mitgliederversammlung. Sofern die Amtszeit des beurlaubten Präsidiumsmitglieds dann nicht sowieso endet, entscheiden die Vereinsmitglieder über eine Abberufung aus dem Präsidium.
+(6) Wenn ein Mitglied des Präsidiums in grober Weise gegen Ordnungen oder die Vereinsinteressen verstößt, oder die Arbeit des Präsidiums wiederholt schwerwiegend behindert, kann es aus wichtigem Grund mit sofortiger Wirkung von seinem Amt beurlaubt werden. Über die Beurlaubung entscheidet das Präsidium mit zweidrittel Stimmenmehrheit. In diesem Fall muss unverzüglich eine Mitgliederversammlung einberufen werden, auf welcher dem Präsidiumsmitglied Gelegenheit zu geben ist, sich zu den erhobenen Vorwürfen zu äußern, sowie eine Abstimmung über die Abberufung des Mitglieds aus dem Präsidium erfolgen muss.
+
+(7) Die Mitgliederversammlung kann über die Abberufung von Mitgliedern aus dem Präsidium abstimmen, wofür eine 2/3-Mehrheit benötigt wird. Daraufhin muss unverzüglich die Nachwahl eines neuen Mitglieds erfolgen.
+
+(8) Das Präsidium kann zweckgebundene Teams bilden, um Aufgaben zu delegieren. Diese Teams bilden kein eigenes Vereinsorgan. Näheres regelt die Gesschäftsordnung des Präsidiums.
 
 
 ## § 11 Beschlussfassung durch das Präsidium
@@ -200,31 +206,29 @@ d) Näheres regelt die Wahlordnung.
 
 ## § 12 Vorstand
 
-(1)  Der Vorstand im Sinne des § 26 BGB besteht aus mindestens einer Person. Das Präsidium kann weitere Personen zum Vorstand bestellen. Der Vorstand muss Mitglied des Vereins, darf aber nicht Mitglied des Präsidiums sein.
+(1) Der Vorstand im Sinne des § 26 BGB besteht aus mindestens einer und maximal drei Personen. Der Vorstand muss Mitglied des Präsidiums sein.
 
 (2) Der Vorstand wird vom Präsidium für die Dauer von einem Jahr gewählt. Die Wiederwahl ist zulässig. Durch einen Beschluss des Präsidiums, welcher 2/3 der abgegebenen Stimmen bedarf, kann der Vorstand jederzeit abberufen werden.
 
-(3) Ein Vorstand vertritt den Verein allein, solange er einziger Vorstand ist. Hat der Verein mehr als einen Vorstand, wird er durch zwei Vorstände gemeinsam vertreten.
+(3) Alle oder einzelne Mitglieder des Vorstands können durch Beschluss des Präsidiums zur Einzelvertretung ermächtigt werden.
 
-(4) Alle oder einzelne Mitglieder des Vorstands können durch Beschluss des Präsidiums zur Einzelvertretung ermächtigt werden.
-
-(5) Das Präsidium kann durch Einzelanweisung oder Geschäftsordnung Geschäfte von seiner vorherigen Zustimmung abhängig machen oder einen zustimmungsfreien Verfügungsrahmen festlegen. Folgende Geschäfte bedürfen, soweit diese durch den Wirtschaftsplan nicht bereits beschlossen sind, stets der vorherigen Zustimmung des Präsidiums:
+(4) Das Präsidium kann durch Einzelanweisung oder Geschäftsordnung Geschäfte von seiner vorherigen Zustimmung abhängig machen oder einen zustimmungsfreien Verfügungsrahmen festlegen. Folgende Geschäfte bedürfen, soweit diese durch den Wirtschaftsplan nicht bereits beschlossen sind, stets der vorherigen Zustimmung des Präsidiums:
   - Erwerb, Belastung und Veräußerung von Grundstücken und grundstücksgleichen Rechten;
   - Gründung von und Beteiligungen an privatrechtlichen Gesellschaften oder Einrichtungen;
   - Gründung und Schließung von Niederlassungen.
 
-(6) Dem Vorstand obliegt insbesondere:
+(5) Dem Vorstand obliegt insbesondere:
   - Die Geschäfte des Vereins zu führen;
-  - Die von der Mitgliederversammlung oder dem Präsidium festgelegten Maßnahmen, Strategien und Ziele umzusetzen;
+  - Anstellungsverträge in Rücksprache mit dem Präsidium abzuschließen, zu ändern und zu beenden;
   - Den Wirtschaftsplan über das Präsidium der Mitgliederversammlung zur Beschlussfassung vorzulegen;
   - Änderungen des laufenden Wirtschaftsplans dem Präsidium zur Genehmigung vorzulegen;
   - Den Jahresabschluss aufzustellen und über das Präsidium der Mitgliederversammlung zur Beratung und Genehmigung vorzulegen;
   - Dem Präsidium regelmäßig über alle wesentlichen Sachverhalte und Entwicklungen zu berichten.
   - Der Mitgliederversammlung über seine Tätigkeiten zu berichten.
 
-(7) Besteht der Vorstand aus mehreren Personen, gilt für die Beschlussfassung des Vorstands § 11 entsprechend.
+(6) Besteht der Vorstand aus mehreren Personen, gilt für die Beschlussfassung des Vorstands § 11 entsprechend.
 
-(8) Der Vorstand wird ermächtigt, solche Satzungsänderungen selbstständig vorzunehmen, die das Registergericht oder die Finanzbehörden aus vereins- oder steuerrechtlichen Gründen fordern oder die redaktioneller Art sind. Die Mitglieder sind spätestens auf der folgenden Mitgliederversammlung zu informieren.
+(7) Der Vorstand wird ermächtigt, solche Satzungsänderungen selbstständig vorzunehmen, die das Registergericht oder die Finanzbehörden aus vereins- oder steuerrechtlichen Gründen fordern oder die redaktioneller Art sind. Die Mitglieder sind spätestens auf der folgenden Mitgliederversammlung zu informieren.
 
 
 ## § 13 Kassenprüfung
