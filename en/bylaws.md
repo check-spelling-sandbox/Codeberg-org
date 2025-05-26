@@ -125,9 +125,7 @@ f) To discuss and decide over existing requests,
 
 g) Approval of all rules of procedure for the association (including fee regulations, election regulations, rules of procedure for the Presidium, platform terms of use, privacy policy and other regulations adopted by the General Assembly),
 
-h) - not applicable -,
-
-i) Decisions on the raising of loans which would put the sum of the association's total liabilities in excess of four percent of the total revenues of the preceding year.
+h) Decisions on the raising of loans which would put the sum of the association's total liabilities in excess of four percent of the total revenues of the preceding year.
 
 (2) The general assembly is to be called by the presidium once a year and should be held in the first half of the year. The invitation must be issued at least six weeks in advance in written form, stating the agenda and already submitted requests. Objections to the schedule and proper requests by members must be received by the executive board at least two weeks before the assembly.
 
@@ -212,16 +210,14 @@ d) Further details are specified by the election regulations.
 
 (2) The board is elected by the presidium for a duration of one year. Re-election is permitted. The board can be dismissed at any time by a resolution with a two-thirds majority of votes by the presidium.
 
-(3) - not applicable -
+(3) The presidium can give all members, or single members of the board the power to single-handedly represent the board.
 
-(4) The presidium can give all members, or single members of the board the power to single-handedly represent the board.
-
-(5) The presidium may, by means of individual instructions or rules of procedure, make business transactions require its prior consent or establish a discretionary limit for transactions to take place without required consent. The following transactions always require prior consent of the presidium, unless they have already been decided on in the business plan:
+(4) The presidium may, by means of individual instructions or rules of procedure, make business transactions require its prior consent or establish a discretionary limit for transactions to take place without required consent. The following transactions always require prior consent of the presidium, unless they have already been decided on in the business plan:
   - acquisition, encumbrance and sale of real estate and equivalent rights;
   - foundation of and participation in companies or institutions under private law;
   - establishment and closure of branch offices.
 
-(6) The executive board may in particular:
+(5) The executive board may in particular:
   - lead the businesses of the association;
   - appoint, change and dismiss employment contracts after consultation with the presidium;
   - provide the business plan for approval to the general assembly through the presidium
@@ -230,9 +226,9 @@ d) Further details are specified by the election regulations.
   - regularly inform the presidium about all relevant circumstances and developments
   - inform the general assembly about its activities
 
-(7) In case the board consists of multiple persons, § 11 applies for the passing of resolutions.
+(6) In case the board consists of multiple persons, § 11 applies for the passing of resolutions.
 
-(8) The executive board is allowed to perform changes to the bylaws if they are required by the registration court, the financial offices or by laws for associations and taxes, or if they are editorial. All members must at the latest be informed at the following general assembly.
+(7) The executive board is allowed to perform changes to the bylaws if they are required by the registration court, the financial offices or by laws for associations and taxes, or if they are editorial. All members must at the latest be informed at the following general assembly.
 
 
 ## § 13 Cash auditing
