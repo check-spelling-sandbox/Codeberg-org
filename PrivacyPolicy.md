@@ -76,22 +76,22 @@ Third parties may be involved with processing personal data under a specific dat
 
 ## 5 Data Retention
 
-- Account details are stored until the deletion of the account.
-- Membership details & payment data are stored for 10 years after the membership has ended.
-- Technical metadata like IP addresses may not be stored for more than 7 days.
-- Personal data may exist in encrypted backups for up to 1 year, but will be purged upon the restoration of the backup if the data retention period is exceeded.
-- In general, all personal data is stored as long as required according to German law.
+1. Account details are stored until the deletion of the account.
+2. Membership details & payment data are stored for 10 years after the membership has ended.
+3. Technical metadata like IP addresses may not be stored for more than 7 days.
+4. Personal data may exist in encrypted backups for up to 1 year, but will be purged upon the restoration of the backup if the data retention period is exceeded.
+5. In general, all personal data is stored as long as required according to German law.
 
 ## 6 Data Subject Rights
 
 As a subject of personal data processing, you have the following rights:
-- **The right to access:** you can request copies of your personal data.
-- **The right to rectification:** you can request that Codeberg e. V. corrects any information you believe is inaccurate, or completes any information you believe is incomplete.
-- **The right to erasure:** you can request that Codeberg e. V. erases your personal data, under the condition that the retention and processing of the information is not required by law and is not neccessary due to the reasons outlined in § 6 GDPR.
-- **The right to restrict processing:** you can request that Codeberg e. V. restricts the processing of your personal data, under certain conditions.
-- **The right to object to processing:** you can object to and withdraw consent to Codeberg e. V. processing your personal data, under certain conditions.
-- **The right to data portability:** you can request that Codeberg e. V. transfers the data that we have collected to another organization, or directly to you, under certain conditions.
-- **If you make a request, we have one month to respond to you.** If you would like to exercise any of these rights, please use the contact information listed in (2) of this privacy policy.
+1. **The right to access:** you can request copies of your personal data.
+2. **The right to rectification:** you can request that Codeberg e. V. corrects any information you believe is inaccurate, or completes any information you believe is incomplete.
+3. **The right to erasure:** you can request that Codeberg e. V. erases your personal data, under the condition that the retention and processing of the information is not required by law and is not neccessary due to the reasons outlined in § 6 GDPR.
+4. **The right to restrict processing:** you can request that Codeberg e. V. restricts the processing of your personal data, under certain conditions.
+5. **The right to object to processing:** you can object to and withdraw consent to Codeberg e. V. processing your personal data, under certain conditions.
+6. **The right to data portability:** you can request that Codeberg e. V. transfers the data that we have collected to another organization, or directly to you, under certain conditions.
+7. **If you make a request, we have one month to respond to you.** If you would like to exercise any of these rights, please use the contact information listed in (2) of this privacy policy.
 
 > ***TODO:*** Check whether the form is okay. Feedback der Anwältin: "Die Rechte der Betroffenen müssen ausgeschrieben werden", ggf. noch mal nachfragen.
 
