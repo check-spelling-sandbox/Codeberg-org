@@ -45,8 +45,7 @@ When using Codeberg as a platform, we need to process the following data for the
     - Data is processed during regular use of our website, and includes the IP address of the requesting computer, the browser and operating system you are using, the date and time of access, the Uniform Resource Locators (URL) requested on our website, as well as the previously visited website (referrer URL). This information is stored anonymously and is not associated with your personal data.
     - Further metadata includes technically necessary cookies to identify the session of a logged-in user or to protect users from so-called CSRF attacks. Codeberg does NOT use cookies or other techniques for user-targeted analytics or advertisements, which is the reason why you do not see a cookie banner on our platform.
     - Legal basis for processing this data is a legitimate interest of the platform operator (§ 6.1.f DSGVO).
-
-Legal basis for processing this data is the use of our services respective the creation & continued use of an account according to our terms of service, respective a voluntary donation (§ 6.1.b DSGVO).
+5. Repository contents, including issues, comments and contents of private repositories, are NOT directly treated as personal data processed by Codeberg. It is the responsibility of a repository's owner to not store any personal data here, or to obey the GDPR when specifically using it to store personal data, especially of other persons.
 
 ### 3.2 Data of Association Members
 
