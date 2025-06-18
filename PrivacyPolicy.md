@@ -31,34 +31,35 @@ When accessing Codeberg.org and its services, the following information is proce
     - Data is recorded during account registration on Codeberg.org at <https://codeberg.org> (under "Register").
     - Data can be changed on the user account page at <https://codeberg.org/user/settings>.
     - Pseudonyms can be used in the public profile, there is no requirement to use real personal information besides a reachable e-mail address.
-    - Legal basis for processing this data is the user's consent to either share the data on our platform or to receive notifications (§ 6.1.a DSGVO).
+    - Legal basis for processing this data is the user's consent to either share the data on our platform or to receive notifications (Art. 6.1.a GDPR).
 2. Voluntarily provided author details (name, e-mail address) when using e.g. the third-party software "Git" (<https://git-scm.com>) to create/upload "commits" to Codeberg, for the purpose of being able to reconstruct the original authorship of uploaded code for copyright & licensing reasons.
     - Data is provided voluntarily by the user, usually during setup, and is then automatically included in newly created commits.
-    - Legal basis for processing this data is the license of the project as a legal contract (§ 6.1.b DSGVO).
+    - Legal basis for processing this data is the license of the project as a legal contract (Art. 6.1.b GDPR).
     - Attention: Most licenses approved by Codeberg are irrevocable and apply indefinitely, to the extent permitted by copyright law. Such licenses are considered to be legal contracts. As a distributor of open-source content, Codeberg e. V. reserves the right to maintain a copy of commit authorship records indefinitely. Additionally, Codeberg e. V. reserves the right to distribute such authorship records to all parties that wish to download, view or otherwise inspect content published using an allowed license. Such parties possess a legitimate interest to this information, as commit authorship records are necessary for adhering to the legal terms stipulated by the project license.
-3. Payment information (IBAN, legal name, e-mail address), for the purpose of processing donations and membership fees. 
+3. Payment information (IBAN, legal name, e-mail address), for the purpose of processing donations. 
     - Payment information is recorded upon donation through the selected third-party payment processor, as chosen on <https://donate.codeberg.org>.
-    - Payment information (IBAN, real or company name) is recorded upon the submission of a membership application at <https://join.codeberg.org>.
     - Codeberg e. V. records identifiers provided by the third-party payment processor. Such identifiers can include an IBAN, legal name, e-mail address or other data.
-    - Legal basis for processing this data is to fulfill legal obligations for processing donations and membership fees (§ 6.1.c DSGVO).
+    - Legal basis for processing this data is to fulfill legal obligations for processing donations (Art. 6.1.c GDPR).
 4. Technical metadata for the purpose of providing the platform services and avoiding misuse of our resources.
-    - Data is processed during regular use of our website, and includes the IP address of the requesting computer, the browser and operating system you are using, the date and time of access, the Uniform Resource Locators (URL) requested on our website, as well as the previously visited website (referrer URL). This information is stored anonymously and is not associated with your personal data.
+    - Data is processed during regular use of our website, and includes the IP address of the requesting computer, the browser and operating system you are using, the date and time of access, the Uniform Resource Locators (URL) requested on our website, as well as the previously visited website (referrer URL). When stored in logs, the IP address is truncated so that this data is not associated with your personal data.
     - Further metadata includes technically necessary cookies to identify the session of a logged-in user or to protect users from so-called CSRF attacks. Codeberg does NOT use cookies or other techniques for user-targeted analytics or advertisements.
-    - Legal basis for processing this data is a legitimate interest of the platform operator (§ 6.1.f DSGVO).
+    - Legal basis for processing this data is a legitimate interest of the platform operator (Art. 6.1.f GDPR).
+5. When projects hosted on Codeberg process personal data using Codeberg's resources (e.g. within our CI, by using repos as storage, or through a website hosted on Codeberg Pages), the project owner is primarily responsible for the data processing and must make sure to adhere to the GDPR as well as their local legislature independently from these terms.
 
 ### 3.2 Data of Association Members
 
 Codeberg e. V. processes and stores the following information of its association members for the reasons outlined below:
 
-1. Membership details (name, e-mail addresses, postal address), for the purpose of managing the association and pursuing our association purposes.
-    - Data is recorded during registration at <https://join.codeberg.org>.
-    - Legal basis for processing this data is to fulfill contractual obligations arising from the association membership (§ 6.1.b-c DSGVO).
+1. Membership details (name, e-mail addresses, postal address, date of birth), for the purpose of managing the association and pursuing our association purposes as stated in § 2 of our bylaws.
+    - Data is recorded during registration at <https://join.codeberg.org> or when a membership application is sent in writing to the executive board.
+    - Legal basis for processing this data is to fulfill contractual obligations arising from the association membership (Art. 6.1.b GDPR) and legal obligations (e.g. archiving) arising from that (Art. 6.1.c GDPR).
 2. Payment information, for the purpose of processing membership fees
-    - Data is recorded during registration at <https://join.codeberg.org>.
-    - Legal basis for processing this data is to fulfill contractual obligations arising from the association membership (§ 6.1.b-c DSGVO).
+    - Payment information (IBAN, real or company name) is recorded upon the submission of a membership application at <https://join.codeberg.org>.
+    - Codeberg e. V. records identifiers provided by the third-party payment processor. Such identifiers can include an IBAN, legal name, e-mail address or other data.
+    - Legal basis for processing this data is to fulfill contractual obligations arising from the association membership (Art. 6.1.b GDPR) and legal obligations (e.g. archiving) arising from that (Art. 6.1.c GDPR).
 3. Photos from e.g. events & meetings, for example for social media or our blog
-    - Requires explicit consent by everyone depicted on those pictures (or, for minors, their legal guardians according to §8 DSGVO).
-    - Legal basis for processing this data is the person's consent (§ 6.1.a DSGVO).
+    - Requires explicit consent by everyone depicted on those pictures (or, for minors, their legal guardians according to Art. 8 GDPR).
+    - Legal basis for processing this data is the person's consent (Art. 6.1.a GDPR).
 
 ## 4 Data Handling by Association Bodies & Third Parties
 
@@ -70,17 +71,18 @@ Personal data may only be processed by the association bodies which are responsi
 4. *Infrastructure administrators* can access all resources and personal information stored on our servers. This is required for maintaining the infrastructure necessary for providing Codeberg e. V.'s services.
 5. An *association member* may have a legitimate interest to contact other association members (e.g. due to § 37 BGB). If a legitimate interest is established, Codeberg e. V. is legally required to produce a list of all association members, as well as their contact information (e.g. an e-mail address).
 6. Tasks involving processing personal data may be delegated to other people within the association by the responsible person.
+7. For the members of the executive board, name, date of birth & place of residence must be made public through the "Vereinsregister".
 
 All servers of Codeberg e. V. are physically located in Germany.
 
 Third parties may be involved with processing personal data under a specific data processing agreement. A full list of third-parties can be provided upon request.
-This is limited to Internet Service Providers (that can only access encrypted data streams) and payment processors (as described in § 3).
+This is limited to hosting providers for backup & certain services (although our main infrastructure is bare-metal), payment processors (as described in Art. 3 of the privacy policy), as well as banking & payroll management.
 
 ## 5 Data Retention
 
 1. Account details are stored until the deletion of the account.
-2. Membership details & payment records are stored for 10 years after the membership has ended.
-3. Technical metadata like IP addresses may not be stored for more than 7 days or as required by German law.
+2. Membership details & payment records are stored for up to 10 years after the membership has ended due to legal obligations.
+3. Technical metadata like IP addresses are not stored for more than 7 days or as required by German legislature.
 4. Personal data may exist in encrypted backups for up to 1 year. If the data retention period is exceeded at the time of restoration of a backup, affected personal data will be purged.
 5. Personal data is stored in accordance with the statutory archiving obligations in Germany.
 
@@ -88,11 +90,11 @@ This is limited to Internet Service Providers (that can only access encrypted da
 
 As a subject of personal data processing, you have the following rights:
 
-1. **Right to access:** You can request copies of your personal data.
-2. **Right to rectification:** you can request that Codeberg e. V. corrects any information you believe is inaccurate, or completes any information you believe is incomplete.
-3. **Right to erasure:** you can request that Codeberg e. V. erases your personal data, under the condition that the retention and processing of the information is not required by law and is not neccessary due to the reasons outlined in § 6 GDPR.
-4. **Right to restrict processing:** you can request that Codeberg e. V. restricts the processing of your personal data, under certain conditions.
-5. **Right to object to processing:** you can object to and withdraw consent to Codeberg e. V. processing your personal data, under certain conditions.
-6. **Right to data portability:** you can request that Codeberg e. V. transfers the data that we have collected to another organization, or directly to you, under certain conditions.
-7. **If you make a request, we have one month to respond to you.** If you would like to exercise any of these rights, please use the contact information listed in (2) of this privacy policy.
+1. **Right to access:** You can request copies of your personal data, as defined in Art. 15 GDPR.
+2. **Right to rectification:** you can request that Codeberg e. V. corrects any information you believe is inaccurate, or completes any information you believe is incomplete, as defined in Art. 16 GDPR.
+3. **Right to erasure:** you can request that Codeberg e. V. erases your personal data, under the condition that the retention and processing of the information is not required by law and is not neccessary due to the reasons outlined in Art. 17 (3) GDPR.
+4. **Right to restrict processing:** you can request that Codeberg e. V. restricts the processing of your personal data, as defined in Art. 18 GDPR.
+5. **Right to object to processing:** you can object to and withdraw consent to Codeberg e. V. processing your personal data, as defined in Art. 21 GDPR.
+6. **Right to data portability:** you can request that Codeberg e. V. transfers the data that we have collected to another organization, or directly to you, as defined in Art. 20 GDPR.
+7. **If you make a request, we have one month to respond to you.** If you would like to exercise any of these rights, please use the contact information listed in Art. 2 of this privacy policy.
 
