@@ -1,0 +1,14 @@
+blank_issues_enabled: true
+contact_links:
+  - name: Feedback & Help
+    url: https://codeberg.org/Codeberg/Community/issues/
+    about: |
+      Tell us what you think or get help from the Codeberg community.
+  - name: Legal inquiries
+    url: https://codeberg.org/Codeberg/org/src/branch/main/Imprint.md
+    about: |
+      If you wish to contact us over a legal matter, please consult our Imprint.
+  - name: Contact
+    url: https://docs.codeberg.org/contact
+    about: |
+      Codeberg's Documentation lists additional contact methods.
