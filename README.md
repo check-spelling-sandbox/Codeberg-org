@@ -45,10 +45,10 @@ Although there is no strictly defined procedure, we recommend the following:
   perspectives that you might not have considered yet.
 
   You can mark changes as **WIP** ("work-in-progress") and ask others for
-  assistance in [Codeberg-e.V./Discussions][discussions] (internal).
+  assistance in [Codeberg-e.V./Discussion][discussion] (internal).
 
 [docs]: https://docs.codeberg.org/contact
-[discussions]: https://codeberg.org/Codeberg-e.V./Discussions
+[discussion]: https://codeberg.org/Codeberg-e.V./Discussion
 
 ### Not a member yet?
 
