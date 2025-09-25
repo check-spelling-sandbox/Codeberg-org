@@ -1,3 +1,5 @@
+<mark>⚠️ **Important:** This updated version of the document will be effective from October 2nd 2025. Please refer to the [current version](https://codeberg.org/Codeberg/org/src/commit/15e7e760eac8a8f2b65284b681a4fba0ea7c9603/PrivacyPolicy.md) until then.</mark>
+
 # Privacy Policy
 
 ## 1 General Information
